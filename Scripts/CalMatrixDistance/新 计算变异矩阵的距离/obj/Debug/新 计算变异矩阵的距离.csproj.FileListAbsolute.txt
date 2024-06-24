@@ -1,0 +1,7 @@
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\AiDMS\新 计算变异矩阵的距离\新 计算变异矩阵的距离\bin\Debug\新 计算变异矩阵的距离.exe.config
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\AiDMS\新 计算变异矩阵的距离\新 计算变异矩阵的距离\bin\Debug\新 计算变异矩阵的距离.exe
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\AiDMS\新 计算变异矩阵的距离\新 计算变异矩阵的距离\bin\Debug\新 计算变异矩阵的距离.pdb
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\AiDMS\新 计算变异矩阵的距离\新 计算变异矩阵的距离\obj\Debug\新 计算变异矩阵的距离.csproj.AssemblyReference.cache
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\AiDMS\新 计算变异矩阵的距离\新 计算变异矩阵的距离\obj\Debug\新 计算变异矩阵的距离.csproj.CoreCompileInputs.cache
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\AiDMS\新 计算变异矩阵的距离\新 计算变异矩阵的距离\obj\Debug\新 计算变异矩阵的距离.exe
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\AiDMS\新 计算变异矩阵的距离\新 计算变异矩阵的距离\obj\Debug\新 计算变异矩阵的距离.pdb

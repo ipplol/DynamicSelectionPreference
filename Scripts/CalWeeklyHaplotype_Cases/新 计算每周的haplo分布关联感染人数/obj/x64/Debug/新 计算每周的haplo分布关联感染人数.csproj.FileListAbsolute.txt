@@ -1,0 +1,7 @@
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\AiDMS\新 计算每周的haplo分布关联感染人数\新 计算每周的haplo分布关联感染人数\obj\x64\Debug\新 计算每周的haplo分布关联感染人数.csproj.AssemblyReference.cache
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\AiDMS\新 计算每周的haplo分布关联感染人数\新 计算每周的haplo分布关联感染人数\obj\x64\Debug\新 计算每周的haplo分布关联感染人数.csproj.CoreCompileInputs.cache
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\AiDMS\新 计算每周的haplo分布关联感染人数\新 计算每周的haplo分布关联感染人数\bin\x64\Debug\新 计算每周的haplo分布关联感染人数.exe.config
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\AiDMS\新 计算每周的haplo分布关联感染人数\新 计算每周的haplo分布关联感染人数\bin\x64\Debug\新 计算每周的haplo分布关联感染人数.exe
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\AiDMS\新 计算每周的haplo分布关联感染人数\新 计算每周的haplo分布关联感染人数\bin\x64\Debug\新 计算每周的haplo分布关联感染人数.pdb
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\AiDMS\新 计算每周的haplo分布关联感染人数\新 计算每周的haplo分布关联感染人数\obj\x64\Debug\新 计算每周的haplo分布关联感染人数.exe
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\AiDMS\新 计算每周的haplo分布关联感染人数\新 计算每周的haplo分布关联感染人数\obj\x64\Debug\新 计算每周的haplo分布关联感染人数.pdb

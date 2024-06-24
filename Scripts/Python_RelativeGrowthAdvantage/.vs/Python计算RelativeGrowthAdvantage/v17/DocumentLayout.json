@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lilab\\OneDrive\\BIG\\\u7A0B\u5E8F\\\u53D8\u5F02\u4F4D\u70B9\\AiDMS\\Python\u8BA1\u7B97RelativeGrowthAdvantage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E740E1E-EF3A-47B4-81CB-F656787B267C}|Python\u8BA1\u7B97RelativeGrowthAdvantage.pyproj|C:\\Users\\lilab\\OneDrive\\BIG\\\u7A0B\u5E8F\\\u53D8\u5F02\u4F4D\u70B9\\AiDMS\\Python\u8BA1\u7B97RelativeGrowthAdvantage\\Python\u8BA1\u7B97RelativeGrowthAdvantage.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5E740E1E-EF3A-47B4-81CB-F656787B267C}|Python\u8BA1\u7B97RelativeGrowthAdvantage.pyproj|solutionrelative:Python\u8BA1\u7B97RelativeGrowthAdvantage.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E740E1E-EF3A-47B4-81CB-F656787B267C}|Python\u8BA1\u7B97RelativeGrowthAdvantage.pyproj|C:\\Users\\lilab\\OneDrive\\BIG\\\u7A0B\u5E8F\\\u53D8\u5F02\u4F4D\u70B9\\AiDMS\\Python\u8BA1\u7B97RelativeGrowthAdvantage\\utils.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5E740E1E-EF3A-47B4-81CB-F656787B267C}|Python\u8BA1\u7B97RelativeGrowthAdvantage.pyproj|solutionrelative:utils.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{75504045-d02f-44e5-bf60-5f60df380e8b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Python\u8BA1\u7B97RelativeGrowthAdvantage.py",
+              "DocumentMoniker": "C:\\Users\\lilab\\OneDrive\\BIG\\\u7A0B\u5E8F\\\u53D8\u5F02\u4F4D\u70B9\\AiDMS\\Python\u8BA1\u7B97RelativeGrowthAdvantage\\Python\u8BA1\u7B97RelativeGrowthAdvantage.py",
+              "RelativeDocumentMoniker": "Python\u8BA1\u7B97RelativeGrowthAdvantage.py",
+              "ToolTip": "C:\\Users\\lilab\\OneDrive\\BIG\\\u7A0B\u5E8F\\\u53D8\u5F02\u4F4D\u70B9\\AiDMS\\Python\u8BA1\u7B97RelativeGrowthAdvantage\\Python\u8BA1\u7B97RelativeGrowthAdvantage.py",
+              "RelativeToolTip": "Python\u8BA1\u7B97RelativeGrowthAdvantage.py",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADcAAABRAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANASURBVEhLtZVPaBxlGMZ/s7uTNazZMW3Y/BGxRFOkWsQU3VAPxoJ6KiKIItJDwTnkomhhK\u002BRg7En3losHFwlBRDx5KGgPHhQruhKaUChaiCbWuNrGtttunN3Z\u002Bb7v9TCb7GTI6HrwgZf55nln3ud9n\u002B9jBv5PiIgV51zXlTj3L3i0Uqksxclt7CkwPz8fp/fE7Oxs4Pv\u002BlSAIXq5UKtV4HiAVJ/4LHMexS6XSPtu2P3JdtxjP808C1Wo1MaIoFAqDEZEju5J7wXVd8Tyvp5ibm9tZr62t3ZiZmVl1Xfe\u002BaL3ECXpFuVymXC6zuLg4mE6nR4DD0XwmehNF3IooisXQ7lKptItfWFhYWllZ2cUlTlAsFveMqakpbNvG0xYb9TbrN1rcbBoymQyO42TjdRInSMJtz\u002Bedcz\u002Bwvnkbr\u002BmjlUKrgOF8ljMvPP3I8vKyHX0\u002BcYL4ydmO9bpif86m/OJkp3gYv27e4uzSL9np6emD0TqJAnFrtsMY4Zsff\u002BfUh99itMZoFV6VYstrMTAwcGe0TqIAgNYarTVWKsXSlS0\u002B/r7GhbU/efLQCEcPFnjq8Bh2GrRWaK0xxvDEZP1NaXwuElw7LyL7Evcgeorq\u002BQk\u002B\u002BHJ1x\u002B\u002BuNeHadO6NGPC\u002BDl9qXXqcoVNvJU4QteXcxVqny7DT7rrLGa2YGAYQ0C1oXQZ19dlEgSg2NhuYTqdGKdJiODCUY3w4z/hInvtHHZ47Os5LR34C5YFugvagXbs38WsatejdaoAKArQKuHuwn/dP\u002BPTLatgthNegBmoLjA\u002BmDdqHkdPJmxy1aCyfxXSsmDmWoz/4CtRvoGoQbID/MwS3Op03u1P03XMzUSCKYw\u002BN7mymc4fqJkwQWqE6haPr7ATYo5/2ZBFAM3\u002BA2vUGxx9uUpBPQgtMG/oOgZUFUeGHIZUD0nDXM9fIDD2WKBBHKpXCsiz6zGW4/l5Y3Pig2yAajECuCGOn3wbOA1XLsho9WQRgjEFrjZCWrtcdW/a/AkMnIdUPgGVZX1iW1SDpnxznonjj9dcuPVD47kHqn4Ui21PkJglGz7TtrPO8ZVln4\u002B/1DBFJi8irohor8tdFJVsXRNp/rItIVUROiMjx6PN/A\u002BOzH72MzdOgAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-05-08T07:33:04.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "utils.py",
+              "DocumentMoniker": "C:\\Users\\lilab\\OneDrive\\BIG\\\u7A0B\u5E8F\\\u53D8\u5F02\u4F4D\u70B9\\AiDMS\\Python\u8BA1\u7B97RelativeGrowthAdvantage\\utils.py",
+              "RelativeDocumentMoniker": "utils.py",
+              "ToolTip": "C:\\Users\\lilab\\OneDrive\\BIG\\\u7A0B\u5E8F\\\u53D8\u5F02\u4F4D\u70B9\\AiDMS\\Python\u8BA1\u7B97RelativeGrowthAdvantage\\utils.py",
+              "RelativeToolTip": "utils.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANASURBVEhLtZVPaBxlGMZ/s7uTNazZMW3Y/BGxRFOkWsQU3VAPxoJ6KiKIItJDwTnkomhhK\u002BRg7En3losHFwlBRDx5KGgPHhQruhKaUChaiCbWuNrGtttunN3Z\u002Bb7v9TCb7GTI6HrwgZf55nln3ud9n\u002B9jBv5PiIgV51zXlTj3L3i0Uqksxclt7CkwPz8fp/fE7Oxs4Pv\u002BlSAIXq5UKtV4HiAVJ/4LHMexS6XSPtu2P3JdtxjP808C1Wo1MaIoFAqDEZEju5J7wXVd8Tyvp5ibm9tZr62t3ZiZmVl1Xfe\u002BaL3ECXpFuVymXC6zuLg4mE6nR4DD0XwmehNF3IooisXQ7lKptItfWFhYWllZ2cUlTlAsFveMqakpbNvG0xYb9TbrN1rcbBoymQyO42TjdRInSMJtz\u002Bedcz\u002Bwvnkbr\u002BmjlUKrgOF8ljMvPP3I8vKyHX0\u002BcYL4ydmO9bpif86m/OJkp3gYv27e4uzSL9np6emD0TqJAnFrtsMY4Zsff\u002BfUh99itMZoFV6VYstrMTAwcGe0TqIAgNYarTVWKsXSlS0\u002B/r7GhbU/efLQCEcPFnjq8Bh2GrRWaK0xxvDEZP1NaXwuElw7LyL7Evcgeorq\u002BQk\u002B\u002BHJ1x\u002B\u002BuNeHadO6NGPC\u002BDl9qXXqcoVNvJU4QteXcxVqny7DT7rrLGa2YGAYQ0C1oXQZ19dlEgSg2NhuYTqdGKdJiODCUY3w4z/hInvtHHZ47Os5LR34C5YFugvagXbs38WsatejdaoAKArQKuHuwn/dP\u002BPTLatgthNegBmoLjA\u002BmDdqHkdPJmxy1aCyfxXSsmDmWoz/4CtRvoGoQbID/MwS3Op03u1P03XMzUSCKYw\u002BN7mymc4fqJkwQWqE6haPr7ATYo5/2ZBFAM3\u002BA2vUGxx9uUpBPQgtMG/oOgZUFUeGHIZUD0nDXM9fIDD2WKBBHKpXCsiz6zGW4/l5Y3Pig2yAajECuCGOn3wbOA1XLsho9WQRgjEFrjZCWrtcdW/a/AkMnIdUPgGVZX1iW1SDpnxznonjj9dcuPVD47kHqn4Ui21PkJglGz7TtrPO8ZVln4\u002B/1DBFJi8irohor8tdFJVsXRNp/rItIVUROiMjx6PN/A\u002BOzH72MzdOgAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-05-08T07:33:00.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+Maximum Parsimony analysis of taxa
+The evolutionary history was inferred using the Maximum Parsimony method. Tree #1 out of 3 most parsimonious trees (length = 89) is shown. The consistency index is 0.910112 (0.836735), the retention index is 0.875000 (0.875000), and the composite index is 0.796348 (0.732143) for all sites and parsimony-informative sites (in parentheses). The MP tree was obtained using the Subtree-Pruning-Regrafting (SPR) algorithm (pg. 126 in ref. [1]) with search level 0 in which the initial trees were obtained by the random addition of sequences (110 replicates). This analysis involved 9 amino acid sequences. There were a total of 1273 positions in the final dataset. Evolutionary analyses were conducted in MEGA X [2]
+
+
+1. Nei M. and Kumar S. (2000). Molecular Evolution and Phylogenetics. Oxford University Press, New York.
+2. Kumar S., Stecher G., Li M., Knyaz C., and Tamura K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution 35:1547-1549.
