@@ -72,6 +72,10 @@ The result haplotype distance and fitness files are saved under _./Diversity/Hap
 
 The Pearson correlation was calculated using [stat_cor](https://www.rdocumentation.org/packages/ggpubr/versions/0.6.0/topics/stat_cor) in R.
 
+## **The evolutionary simulation.**
+
+The python script is located in _./Scripts/AiDMS_Simulation.py_
+
 ## **The prediction of haplotype relative growth advantages.**
 
 The model training and prediction were based on the script **AiDMS.R**, using the result haplotype distance and fitness files from the previous step.
